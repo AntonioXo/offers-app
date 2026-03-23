@@ -11,7 +11,7 @@
   {
     "title": "Credit Plus",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/CreditP",
+    "image": "assets/CreditP.png",
     "url": "https://example.com",
     "percent": 0.01,
     "amount": 40000,
@@ -20,7 +20,7 @@
   {
     "title": "Credit 7",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/credit7",
+    "image": "assets/credit7.jpg",
     "url": "https://example.com",
     "percent": 0.01,
     "amount": 50000,
