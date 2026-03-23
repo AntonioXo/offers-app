@@ -1,29 +1,29 @@
 [
   {
-      title: 'Selfi Credit',
-  description: 'Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.',
-  image: 'assets/Selfi.png',
-  url: 'https://example.com',
-  percent: 0.01,
-  amount: 30000,
-  days: 60,
+    "title": "Selfi Credit",
+    "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
+    "image": "https://raw.githubusercontent.com/AntonioXo/offers-app/main/Selfi.png",
+    "url": "https://example.com",
+    "percent": 0.01,
+    "amount": 30000,
+    "days": 60
   },
   {
-         title: 'Selfi Credit',
-  description: 'Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.',
-  image: 'assets/Selfi.png',
-  url: 'https://example.com',
-  percent: 0.01,
-  amount: 30000,
-  days: 60,
+    "title": "Selfi Credit",
+    "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
+    "image": "https://raw.githubusercontent.com/AntonioXo/offers-app/main/Selfi.png",
+    "url": "https://example.com",
+    "percent": 0.01,
+    "amount": 30000,
+    "days": 60
   },
   {
-        title: 'Selfi Credit',
-  description: 'Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.',
-  image: 'assets/Selfi.png',
-  url: 'https://example.com',
-  percent: 0.01,
-  amount: 30000,
-  days: 60,
+    "title": "Selfi Credit",
+    "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
+    "image": "https://raw.githubusercontent.com/AntonioXo/offers-app/main/Selfi.png",
+    "url": "https://example.com",
+    "percent": 0.01,
+    "amount": 30000,
+    "days": 60
   }
 ]
