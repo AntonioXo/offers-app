@@ -92,7 +92,7 @@
    {
     "title": "CashtanCredit",
     "description": "",
-    "image": "assets/cashtancredit.svg",
+    "image": "assets/cashtancredit.png",
     "url": "https://cashtancredit.com.ua/",
     "percent": 0.01,
     "amount": 20000,
@@ -209,7 +209,7 @@
   {
     "title": "MyBiz",
     "description": "Перша 1000 під 0,01%",
-    "image": "assets/mybiz_logo.svg",
+    "image": "assets/mybiz_logo.png",
     "url": "https://mybiz.com.ua/",
     "percent": 0.01,
     "amount": 1000,
