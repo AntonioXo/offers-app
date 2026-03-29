@@ -65,7 +65,7 @@
   {
     "title": "FirstCredit",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/FirstCredit.png",
+    "image": "assets/firstcredit.png",
     "url": "https://firstcredit.com.ua/",
     "percent": 1.0,
     "amount": 20000,
@@ -92,7 +92,7 @@
   {
     "title": "CashtanCredit",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/CashtanCredit.png",
+    "image": "assets/cashtancredit.svg",
     "url": "https://cashtancredit.com.ua/",
     "percent": 1.0,
     "amount": 20000,
@@ -110,7 +110,7 @@
   {
     "title": "Loan+",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/Loan+.png",
+    "image": "assets/loan-plus.png",
     "url": "https://loanplus.com.ua/",
     "percent": 1.0,
     "amount": 20000,
@@ -137,7 +137,7 @@
   {
     "title": "Limon Credit",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/LimonCredit.png",
+    "image": "assets/Limon.png",
     "url": "https://limon-credit.com.ua/",
     "percent": 0.09,
     "amount": 30000,
@@ -146,7 +146,7 @@
   {
     "title": "Швидко Гроші",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/ШвидкоГроші.png",
+    "image": "assets/Svidko.png",
     "url": "https://sgroshi.com.ua/",
     "percent": 0.01,
     "amount": 30000,
@@ -173,7 +173,7 @@
   {
     "title": "SelfieCredit",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/SelfieCredit.png",
+    "image": "assets/Selfi.png",
     "url": "https://selfiecredit.ua/",
     "percent": 1.0,
     "amount": 20000,
@@ -182,7 +182,7 @@
   {
     "title": "EasyCadh",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/EasyCadh.png",
+    "image": "assets/Easy.png",
     "url": "https://eazycash.com.ua/",
     "percent": 0.01,
     "amount": 5000,
@@ -191,7 +191,7 @@
   {
     "title": "ClickCredit",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/ClickCredit.png",
+    "image": "assets/Click.png",
     "url": "https://clickcredit.ua/",
     "percent": 0.0095,
     "amount": 8000,
@@ -200,7 +200,7 @@
   {
     "title": "AlexCredit",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/AlexCredit.png",
+    "image": "assets/Alex.png",
     "url": "https://alexcredit.ua/",
     "percent": 1.0,
     "amount": 6000,
@@ -209,7 +209,7 @@
   {
     "title": "MyBiz",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/MyBiz.png",
+    "image": "assets/mybiz_logo.svg",
     "url": "https://mybiz.com.ua/",
     "percent": 0.01,
     "amount": 1000,
@@ -218,19 +218,10 @@
   {
     "title": "Национальный Кредит",
     "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/НациональныйКредит.png",
+    "image": "assets/national.png",
     "url": "https://nationalcredit.com.ua/",
     "percent": 1.0,
     "amount": 10000,
-    "days": 30
-  },
-  {
-    "title": "E Гроші",
-    "description": "Микрокредит на любые цели.\nПростая заявка за 1 минуту.\nСтавка от 1% в месяц.",
-    "image": "assets/EГроші.png",
-    "url": "",
-    "percent": 0.01,
-    "amount": 30000,
     "days": 30
   }
 ]
