@@ -1,8 +1,26 @@
 [
+   {
+    "title": "Miloan",
+    "description": "З Miloan отримувати гроші просто, швидко і комфортно",
+    "image": "assets/Miloan.png",
+    "url": "https://miloan.ua/",
+    "percent": 0.01,
+    "amount": 20000,
+    "days": 30
+  },
+  {
+    "title": "Pango",
+    "description": "",
+    "image": "assets/Pango.png",
+    "url": "https://pango.com.ua/",
+    "percent": 0.01,
+    "amount": 15000,
+    "days": 30
+  },
   {
     "title": "Creditkasa",
     "description": "",
-    "image": "assets/Creditkasa.png",
+    "image": "assets/Credikasa.png",
     "url": "https://creditkasa.com.ua/",
     "percent": 0.01,
     "amount": 30000,
@@ -47,7 +65,7 @@
   {
     "title": "Moneyveo",
     "description": "Moneyveo – онлайн-сервіс онлайн-кредитування в Україні. ",
-    "image": "assets/Moneyveo.png",
+    "image": "assets/Moneveo.png",
     "url": "https://moneyveo.com.ua/",
     "percent": 0.01,
     "amount": 50000,
@@ -71,25 +89,7 @@
     "amount": 20000,
     "days": 30
   },
-  {
-    "title": "Miloan",
-    "description": "З Miloan отримувати гроші просто, швидко і комфортно",
-    "image": "assets/Miloan.png",
-    "url": "https://miloan.ua/",
-    "percent": 0.01,
-    "amount": 20000,
-    "days": 30
-  },
-  {
-    "title": "Pango",
-    "description": "",
-    "image": "assets/Pango.png",
-    "url": "https://pango.com.ua/",
-    "percent": 0.01,
-    "amount": 15000,
-    "days": 30
-  },
-  {
+   {
     "title": "CashtanCredit",
     "description": "",
     "image": "assets/cashtancredit.svg",
